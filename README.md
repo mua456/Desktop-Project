@@ -1,2 +1,1 @@
-# Desktop-Project
-Driving License Application
+# Project
